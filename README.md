@@ -1,4 +1,4 @@
-# NU²D
+# Non-Terrestrial Cluster Process (NTCP)
 This repository contains statistics to generate realistic Non-Uniform User Distributions with Non-Terrestrial Cluster Processes (NTCPs) in Non-Terrestrial Networks. The methodology, presented in [1], is based on the HDBSCAN clustering algorithm [2] and Kernel Density Estimation [3] and is applied on tile "R4-C19" (central Europe) of the open database Global Human Settlement Layer (GHSL) by the Joint Research Centre (JRC) of the European Commission, mainly focusing on the GHS-POP R2023A dataset [4].
 
 The repository includes:
