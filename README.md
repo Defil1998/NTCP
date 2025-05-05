@@ -6,6 +6,11 @@ The repository includes:
 - getUserLocation.m: sample function that outputs the vectors containing the latitude and longitude of the generated user locations
 - main.m: sample script to illustrate the usage of generateUsers.m
 
+## How to cite
+Feel free to use the provided statistics and function for the generation of non-uniformly distributed user locations. If you use this repository in your work and you submit it for publication, please cite this repo using the original paper as reference:
+
+B. De Filippo, B. Ahmad, D. G. Riviello, A. Guidotti and A. Vanelli-Coralli, "Non-Uniform User Distribution in Non-Terrestrial Networks with Application to User Scheduling," 2024 IEEE International Mediterranean Conference on Communications and Networking (MeditCom), Madrid, Spain, 2024, pp. 441-446, doi: 10.1109/MeditCom61057.2024.10621409.
+
 ## References
 - [1] B. De Filippo, B. Ahmad, D. G. Riviello, A. Guidotti and A. Vanelli-Coralli, "Non-Uniform User Distribution in Non-Terrestrial Networks with Application to User Scheduling," 2024 IEEE International Mediterranean Conference on Communications and Networking (MeditCom), Madrid, Spain, 2024, pp. 441-446, doi: 10.1109/MeditCom61057.2024.10621409.
 - [2] R. J. G. B. Campello, D. Moulavi and J. Sander, "Density-based clustering based on hierarchical density estimates," in Advances in Knowledge Discovery and Data Mining, J. Pei, V. S. Tseng, L. Cao, H. Motoda, and G. Xu, Eds. Berlin, Heidelberg: Springer, 2013, vol. 7819, pp. 160–172. doi: 10.1007/978-3-642-37456-2_14.
