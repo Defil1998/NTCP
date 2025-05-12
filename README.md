@@ -3,8 +3,8 @@ This repository contains statistics to generate realistic Non-Uniform User Distr
 
 The repository includes:
 - non_uniform_distributions.mat: file containing the statistics described in [1] required to generate a NTCP tailored to the suburban and rural areas in tile R4-C19.
-- getUserLocation.m: sample function that outputs the vectors containing the latitude and longitude of the generated user locations
-- main.m: sample script to illustrate the usage of generateUsers.m
+- getUserLocation.m: function that outputs the vectors containing the latitude and longitude of the generated user locations
+- main.m: sample script to illustrate the usage of getUserLocation.m
 
 ## How to cite
 Feel free to use the provided statistics and function for the generation of non-uniformly distributed user locations. If you use this repository in your work and you submit it for publication, please cite this repo using the original paper as reference:
